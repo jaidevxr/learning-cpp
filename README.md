@@ -26,9 +26,7 @@
 
 - [📖 About](#-about)
 - [⚙️ Prerequisites & Setup](#️-prerequisites--setup)
-- [📊 Progress Tracker](#-progress-tracker)
-- [📚 Resources](#-resources)
-- [🤝 Connect](#-connect)
+
 
 ---
 
@@ -173,80 +171,11 @@ g++ -o output filename.cpp
 
 ---
 
-## 📊 Progress Tracker
 
-<img src="https://img.shields.io/badge/Section-My_Progress-FBBF24?style=for-the-badge&labelColor=78350f" alt="Progress"/>
-<img src="https://img.shields.io/badge/Updated-Daily-22D3EE?style=for-the-badge&labelColor=155e75" alt="Updated"/>
-
-### 📈 Overall Progress
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/Overall_Progress-5%25-FF6B6B?style=for-the-badge&labelColor=1a1a2e)
-![Topics](https://img.shields.io/badge/Topics_Covered-1%2F20-7C3AED?style=for-the-badge&labelColor=1a1a2e)
-![Days](https://img.shields.io/badge/Days_Coding-1-10B981?style=for-the-badge&labelColor=1a1a2e)
-
-</div>
-
-```
-████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5%
-```
-
-### ✅ Completion Checklist
-
-#### 🟢 Beginner Fundamentals
-
-- [ ] ![](https://img.shields.io/badge/01-Variables_&_Data_Types-4ADE80?style=flat-square) 
-- [ ] ![](https://img.shields.io/badge/02-Operators-4ADE80?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/03-Control_Flow-4ADE80?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/04-Functions-4ADE80?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/05-Arrays-4ADE80?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/06-Strings-4ADE80?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/07-Pointers-4ADE80?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/08-References-4ADE80?style=flat-square)
-
-#### 🟡 Object-Oriented Programming
-
-- [ ] ![](https://img.shields.io/badge/09-Classes_&_Objects-FACC15?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/10-Constructors-FACC15?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/11-Inheritance-FACC15?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/12-Polymorphism-FACC15?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/13-Encapsulation-FACC15?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/14-Abstraction-FACC15?style=flat-square)
-
-#### 🔴 Data Structures & Algorithms
-
-- [ ] ![](https://img.shields.io/badge/15-Vectors-F87171?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/16-Linked_Lists-F87171?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/17-Stacks_&_Queues-F87171?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/18-Trees-F87171?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/19-Graphs-F87171?style=flat-square)
-- [ ] ![](https://img.shields.io/badge/20-Sorting_Algorithms-F87171?style=flat-square)
-
-### 📅 Recent Activity
-
-| Date | Topic | Notes |
-|------|-------|-------|
-| Jan 6, 2026 | 🎉 Started Journey | Set up environment |
-| | | |
-| | | |
-
----
-
-## 📚 Resources
-
-<img src="https://img.shields.io/badge/Section-Learning_Resources-EC4899?style=for-the-badge&labelColor=831843" alt="Resources"/>
-<img src="https://img.shields.io/badge/Curated-Hand_Picked-8B5CF6?style=for-the-badge&labelColor=4c1d95" alt="Curated"/>
-
-
-
-## 🤝 Connect
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Let's-Connect!-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Connect"/>
-
-<br/>
+<
 
 ---
 
