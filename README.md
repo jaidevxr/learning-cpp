@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Status-🔥_Active_Learning-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Status"/>
 <img src="https://img.shields.io/badge/Started-January_2026-7C3AED?style=for-the-badge&labelColor=1a1a2e" alt="Started"/>
-<img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&labelColor=1a1a2e" alt="License"/>
+
 
 <br/>
 <br/>
